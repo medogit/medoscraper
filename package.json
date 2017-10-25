@@ -1,5 +1,5 @@
 {
-  "name": "week-18-homework",
+  "name": "medoscraper",
   "version": "1.0.0",
   "description": "MongoDB & Data Scraping",
   "main": "server.js",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kellymersereau/Week-18-HW-Mongo.git"
+    "url": "git+https://github.com/medogit/medoscraper.git"
   },
-  "author": "Kelly Mersereau",
+  "author": "Mehdi El-Azouzi",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/kellymersereau/Week-18-HW-Mongo/issues"
+    "url": "https://github.com/medogit/medoscraper.git"
   },
-  "homepage": "https://github.com/kellymersereau/Week-18-HW-Mongo#readme",
+  "homepage": "https://github.com/medogit/medoscraper.git",
   "dependencies": {
     "body-parser": "^1.15.1",
     "cheerio": "^0.20.0",
